@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/rappels/send-scheduled",
+      "schedule": "0 7 * * 1-5"
+    }
+  ]
+}

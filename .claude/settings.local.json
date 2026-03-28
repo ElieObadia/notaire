@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm create:*)",
+      "Bash(npm --version)",
+      "Bash(npx --version)",
+      "Bash(npm install:*)",
+      "Bash(export PATH=\"$PATH:/d/Program Files/nodejs\")",
+      "Bash(pnpm --version)",
+      "Bash(cp -r /c/Users/Elie/Desktop/Dev/notaire_tmp/notaire-app/app /c/Users/Elie/Desktop/Dev/notaire/)",
+      "Bash(cp -r /c/Users/Elie/Desktop/Dev/notaire_tmp/notaire-app/node_modules /c/Users/Elie/Desktop/Dev/notaire/)",
+      "Bash(pnpm dlx:*)",
+      "Bash(PNPM=/c/Users/Elie/AppData/Roaming/npm/pnpm)",
+      "Bash($PNPM --version)",
+      "Bash(export PNPM=/c/Users/Elie/AppData/Roaming/npm/pnpm)",
+      "Bash($PNPM dlx:*)",
+      "Bash(PNPM_BIN=\"/c/Users/Elie/AppData/Roaming/npm/pnpm\")",
+      "Bash(\"$PNPM_BIN\" --version)",
+      "Bash(\"/c/Users/Elie/AppData/Roaming/npm/pnpm\" dlx:*)",
+      "Bash(\"/c/Users/Elie/AppData/Roaming/npm/pnpm\" install:*)",
+      "Bash(/c/Users/Elie/AppData/Roaming/npm/pnpm exec:*)",
+      "Bash(pnpm add:*)",
+      "Bash(pnpm test:*)",
+      "Bash(pnpm vitest:*)",
+      "Bash(xargs grep:*)",
+      "Bash(grep -A 10 type? node_modules/@base-ui/react/esm/button/Button.d.ts)",
+      "Bash(pnpm tsc:*)",
+      "Bash(pnpm build:*)",
+      "Bash(npx tsc:*)",
+      "Bash(supabase:*)",
+      "Bash(git rm:*)",
+      "Bash(git reset:*)"
+    ]
+  }
+}
